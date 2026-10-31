@@ -1,0 +1,8 @@
+{
+  "name": "NutriGen",
+  "description": "India's First IBS Trigger Tracking & Smart Nutrition Platform. NutriGen supports nutrition decisions and helps find triggers.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
